@@ -1,0 +1,25 @@
+.container {
+    margin-top: 64px;
+    align-self: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    align-items: center;
+}
+
+.container img {
+    margin-right: 0 !important;
+}
+
+#qrcode {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
